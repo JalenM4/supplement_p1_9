@@ -1,6 +1,6 @@
 ﻿namespace supplement_p1_9.Tests;
 
-public class UnitTest1
+public class UnitTest12
 {
     [Fact]
     public void TestQuarterEquality()
